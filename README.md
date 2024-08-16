@@ -5,7 +5,7 @@
 - 📫 How to reach me  fengjuncai2@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-WELLCOME TO TALK WITH ME.
+WELCOME TO TALK WITH ME.
 <!---
 qianlinnian/qianlinnian is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
